@@ -1,0 +1,17 @@
+# event log (login/logout) - will be appended automatically[2026-01-08 11:27:59] LOGIN: admin
+[2026-01-08 11:39:29] LOGOUT: admin
+[2026-01-08 11:39:38] LOGIN: student
+[2026-01-08 16:46:58] LOGIN: admin
+[2026-01-08 16:47:17] LOGOUT: admin
+[2026-01-08 16:47:28] LOGIN: admin
+[2026-01-08 16:58:38] LOGOUT: admin
+[2026-01-08 17:00:13] LOGIN: admin
+[2026-01-08 17:09:18] LOGIN: admin
+[2026-01-08 17:09:59] LOGOUT: admin
+[2026-01-08 17:10:23] LOGIN: admin
+[2026-01-08 17:12:25] LOGOUT: admin
+[2026-01-08 17:14:46] LOGIN: admin
+[2026-01-08 17:14:47] LOGOUT: admin
+[2026-01-08 17:15:10] LOGIN: admin
+[2026-01-08 17:15:11] LOGOUT: admin
+[2026-01-08 17:16:46] LOGIN: admin

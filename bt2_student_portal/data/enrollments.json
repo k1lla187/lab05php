@@ -1,0 +1,17 @@
+[
+    {
+        "student_code": "SV001",
+        "course_code": "IT101",
+        "created_at": "2026-01-08 17:33:26"
+    },
+    {
+        "student_code": "SV001",
+        "course_code": "IT102",
+        "created_at": "2026-01-08 17:33:30"
+    },
+    {
+        "student_code": "SV001",
+        "course_code": "IT103",
+        "created_at": "2026-01-08 17:33:38"
+    }
+]

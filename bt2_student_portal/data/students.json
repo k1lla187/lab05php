@@ -1,0 +1,16 @@
+[
+    {
+        "student_code": "SV001",
+        "full_name": "Nguyễn Văn A",
+        "class_name": "DCCNTT13",
+        "email": "a@example.com",
+        "password_hash": "$2y$10$e7dnKBEjgCftm9TNOBcm\/e0qCOUZgGTA1zO0eMeKhMq2GznGs8lhK"
+    },
+    {
+        "student_code": "SV002",
+        "full_name": "Trần Thị B",
+        "class_name": "DCCNTT13",
+        "email": "b@example.com",
+        "password_hash": "$2y$10$K9GwbbXj63U3eCazDs.l\/O1x72c.AvRYIFCul9BR72lGPaTCdsaKG"
+    }
+]
