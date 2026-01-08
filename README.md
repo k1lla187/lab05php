@@ -141,5 +141,4 @@ Cách cài & chạy (Windows + XAMPP)
 Tài khoản mẫu (sau khi chạy `init.php`)
 - SV001 / 123456
 - SV002 / abcdef
-
-Bạn
+  Disclaimer: ts is AI slop for homework
